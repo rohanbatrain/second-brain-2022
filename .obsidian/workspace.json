@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "46ff81934ba460f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "26995f0a61f3e65a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2ccc1ae1b99ea8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Capture-System/01C_Periodic-Notes/01C1_Reminders/01C1C_Prompts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2647db6253a2ecc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b18bc535d3d6f51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bb3c1cd50f34de2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f7f79d99081240c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a204cde69172557",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "954baa4d255864b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c87505023f4b019a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "158920e1e39ab569",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_Capture-System/01C_Periodic-Notes/01C1_Reminders/01C1C_Prompts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af768fc88293cf33",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_Capture-System/01C_Periodic-Notes/01C1_Reminders/01C1C_Prompts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f47152d0e3600a94",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "414368fde333cf9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_Capture-System/01C_Periodic-Notes/01C1_Reminders/01C1C_Prompts.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f2ccc1ae1b99ea8b",
+  "lastOpenFiles": [
+    "01_Capture-System/01C_Periodic-Notes/01C1_Reminders/01C1B_My-Not-to-do-list.md",
+    "01_Capture-System/01C_Periodic-Notes/01C1_Reminders/01C1A_My-Daily-Reminders.md"
+  ]
+}
