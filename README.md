@@ -2,6 +2,10 @@
 
 This readme is just a draft for now. This is subjected to massive changes and is not production ready till now. I am just dumping all notes regarding the project here. 
 
+## Supported Projects
+
+This project is supported by [second-brain-tools](https://github.com/rohanbatrain/Second-Brain-tools)
+
 ## Obsidian specific 
 These are the settings that are to be toggled in your obsidian app. 
 1. Turn off inline titles. 
