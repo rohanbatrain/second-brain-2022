@@ -1,1 +1,0 @@
-This Folder would have all the data regarding our network. More on that on the readme. 
