@@ -1,6 +1,6 @@
 # Second-Brain
 
-This readme is just a draft for now. This is subjected to massive changes and is not production ready till now. I am just dumping all notes regarding the project here. 
+The project has been flagged as EOL (End of Life) on December 2022. Moving forward to more simplistic approach for better automation and other changes. You can still use the structure but please dont expect more updates or support.
 
 ## Supported Projects
 
