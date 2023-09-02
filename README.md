@@ -1,6 +1,6 @@
 # Second-Brain
 
-The project has been flagged as EOL (End of Life) on December 2022. Moving forward to more simplistic approach for better automation and other changes. You can still use the structure but please dont expect more updates or support.
+The project has been flagged as EOL (End of Life) on December 2022. Moving forward to more simplistic approach for better automation and other changes. You can still use the structure but please dont expect more updates or support. ALternative project with newer approach will be available on [second-brain-template](https://github.com/rohanbatrain/second-brain-template)
 
 ## Supported Projects
 
